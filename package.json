@@ -19,6 +19,7 @@
   "homepage": "https://github.com/elmalind/cheesecake#readme",
   "devDependencies": {
     "@types/node": "^25.5.2",
+    "prettier": "^3.8.2",
     "typescript": "^6.0.2"
   }
 }
